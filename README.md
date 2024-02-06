@@ -1,5 +1,4 @@
 # HAIRANGE
-Predict Human Adaptive Influenza Virus Reassortment Using Attentional Networks Based on Genome Embedding
 
 This package provides an implementation of the inference pipeline of DataCleaning, Codon2vec, AttentionalPre-trainer,UnsupervisedMachineLearning, ResNetClassifier, AblationNetworks and ReassortmentPredictor.
 
@@ -198,3 +197,4 @@ NOTE: All '.npy' files under `/Res/npy` was compressed as `/Res/npy.tar.gz`, ple
     
 12. Once the run is over, the output directory (the default is `/Res/prediction_result_csv`) shall contain the results of the run.
 
+    
