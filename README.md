@@ -1,4 +1,4 @@
-# HAIRANGE
+# CECHAIRAN
 
 This package provides an implementation of the inference pipeline of DataCleaning, Codon2vec, AttentionalPre-trainer,UnsupervisedMachineLearning, ResNetClassifier, AblationNetworks and ReassortmentPredictor.
 
@@ -41,7 +41,7 @@ Please follow these steps:
     ```
 
 NOTE:THE "/Res" FILEs HAVE BEEN COMPRESSED INTO THE FILE "Res.zip" AND THE ZIP FILE HAS BEEN UPLOADED ON THE WEBSITE OF "https://figshare.com/s/1efd7bc8dd400fbb857c". 
-      PLEASE DOWNLOAD THE ZIP FILE AND DECOMPRESS IT UNDER THE HOME DIRECTORY OF 'HAIRANGE'.  
+      PLEASE DOWNLOAD THE ZIP FILE AND DECOMPRESS IT UNDER THE HOME DIRECTORY OF 'CECHAIRAN'.  
      ALL FILES UNDER `/Res/res1` HAVE BEEN COPPRESSED INTO THE FILE, `/Res/res1.zip`, PLEASE UNDEPRESSED THE ZIP FILE BEFORE UTILIZING.
 
 6.  We make detailed adjustments to the details of the final file, and then we get the final file `new_AIV_all_8_73805.xlsx` (the default directory is `/Res/res1`).
