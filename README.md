@@ -53,7 +53,7 @@ NOTE:THE "/Res" FILEs HAVE BEEN COMPRESSED INTO THE FILE "Res.zip" AND THE ZIP F
     python DataCleaning/SplitAndShuffle.py
     ```
 
-## Running your HAIRANGE
+## Running your CECHAIRAN
 
 1.  Install the dependencies for running HAIRANGE. Note: You may optionally wish to
     create a
