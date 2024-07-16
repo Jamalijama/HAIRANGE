@@ -195,7 +195,7 @@ NOTE: All '.npy' files under `/Res/npy` was compressed as `/Res/npy.tar.gz`, ple
 12. Once the run is over, the output directory (the default is `/Res/prediction_result_csv`) shall contain the results of the run.
 
     
-NOTE: THE ORIGINAL DATA FILEs IN "/DataCleaning/Res/res1", SOME IMPORTANCE FILEs FOR TRAINING THE MODELS 
+NOTE: THE ORIGINAL DATA FILEs IN "/DataCleaning/Res/res1", SOME IMPORTANT FILEs FOR TRAINING THE MODELS 
 AND SOME RESULT FILEs IN "/Res" HAVE BEEN COMPRESSED INTO SOME FILE "HAIRANGE-XXX.zip".
 AND THE ZIP FILE HAS BEEN UPLOADED ON THE WEBSITE OF "10.5281/zenodo.12747426". 
 PLEASE DOWNLOAD THE ZIP FILE AND DECOMPRESS IT UNDER THE HOME DIRECTORY OF 'HAIRANGE'.
