@@ -1,0 +1,5 @@
+# Dependencies necessary to execute CleaningFile.py and CleaningAfterMafft.py
+bio>=1.5.8
+biopython==1.81
+numpy>=1.22.0
+pandas>=1.1.3
